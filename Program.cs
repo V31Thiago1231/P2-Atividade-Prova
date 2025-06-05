@@ -23,12 +23,21 @@ class Program
                 Preco = 50.00m,
                 Categoria = "Acessórios"
             };
-             var produto3 = new Produto
+            var produto3 = new Produto
             {
                 Id = 3,
                 Nome = "Fone",
                 Preco = 70.00m,
                 Categoria = "Acessórios"
+            };
+
+            // Criando cliente
+            var cliente = new Cliente
+            {
+                Id = 1,
+                Nome = "João Silva",
+                Email = "joao@email.com",
+                CPF = "12345678900"
             };
     }
 
