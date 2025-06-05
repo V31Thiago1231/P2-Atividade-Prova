@@ -8,3 +8,10 @@ Requsitos
 
 No Terminal Rode: "dotnet run"
 
+Comandos Git
+
+git clone 
+git status //uso continuo
+git add "para adicionar"
+git add -u //para arquivos que ja existem
+git commit -m "comentario"
