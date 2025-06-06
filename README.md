@@ -15,3 +15,4 @@ git status //uso continuo
 git add "para adicionar"
 git add -u //para arquivos que ja existem
 git commit -m "comentario"
+git push origin main //Mandar pro git
