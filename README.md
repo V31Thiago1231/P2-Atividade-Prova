@@ -30,7 +30,7 @@ Criação do Cadastro de Clientes
 
 Criação de Pedidos
 
-3 - Na Criação da Classe o principal foi Princípio Principal Aplicado: DIP – Princípio da Inversão de Dependência (Dependency Inversion Principle), já que a Classe Pedido depende das interfaces ICliente e IProduto, e não diretamente das classes concretas como Cliente ou Produto. Já na interface foi aplicado o Princípio da Segregação de Interface (ISP – Interface Segregation Principle), a interface define somente os membros essenciais para representar e operar um pedido.
+3 - Na Criação da Classe Pedido o principal foi Princípio Principal Aplicado: DIP – Princípio da Inversão de Dependência (Dependency Inversion Principle), já que a Classe Pedido depende das interfaces ICliente e IProduto, e não diretamente das classes concretas como Cliente ou Produto. Já na interface foi aplicado o Princípio da Segregação de Interface (ISP – Interface Segregation Principle), a interface define somente os membros essenciais para representar e operar um pedido.
 
 Criação Relatório de Pedidos
 
