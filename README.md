@@ -38,7 +38,7 @@ Criação Relatório de Pedidos
 
 Criação Aplicação de Descontos
 
-5- Foi criada duas Classes DescontoPorCategoria, foi utilizado Princípio Aberto/Fechado
+5- Foi criada a Classe DescontoPorCategoria, foi utilizado Princípio Aberto/Fechado
 (Open/Closed Principle), A classe implementa a interface IDescontoStrategy, o que permite que novas estratégias de desconto sejam adicionadas sem precisar alterar a lógica existente.
 
 6- Já na Classe DescontoPorQuantidade, foi utilizado OCP – Princípio Aberto/Fechado (Open/Closed Principle), essa classe é uma implementação da interface IDescontoStrategy.
