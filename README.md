@@ -34,6 +34,7 @@ Criação de Pedidos
 
 Criação Relatório de Pedidos
 
+4- Na Criação da Classe ItemPedido foi utilizado Princípio da Inversão de Dependência (Dependency Inversion Principle), a classe ItemPedido depende da interface IProduto, e não de uma classe concreta como Produto.
 
 
 
