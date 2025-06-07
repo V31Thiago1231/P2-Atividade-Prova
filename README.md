@@ -36,6 +36,17 @@ Criação Relatório de Pedidos
 
 4- Na Criação da Classe ItemPedido foi utilizado Princípio da Inversão de Dependência (Dependency Inversion Principle), a classe ItemPedido depende da interface IProduto, e não de uma classe concreta como Produto.
 
+Criação Aplicação de Descontos
+
+5- Foi criada duas Classes DescontoPorCategoria, foi utilizado Princípio Aberto/Fechado
+(Open/Closed Principle), A classe implementa a interface IDescontoStrategy, o que permite que novas estratégias de desconto sejam adicionadas sem precisar alterar a lógica existente.
+
+6- Já na Classe DescontoPorQuantidade, foi utilizado OCP – Princípio Aberto/Fechado (Open/Closed Principle), essa classe é uma implementação da interface IDescontoStrategy.
+
+*PedidoFactory
+
+7- Foi criada a Classe PedidoFactory para com validação de cliente e geração de ID. Foi utilizado Princípio da Inversão de Dependência
+(Dependency Inversion Principle), retorna um objeto do tipo IPedido e recebe como parâmetro um ICliente.
 
 
 
