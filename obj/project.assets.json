@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thima\\Desktop\\P2-Atividade-Prova - Copia\\P2-Atividade-Prova.csproj",
+      "projectUniqueName": "C:\\Users\\Thima\\Desktop\\P2-Atividade-Prova\\P2-Atividade-Prova.csproj",
       "projectName": "P2-Atividade-Prova",
-      "projectPath": "C:\\Users\\Thima\\Desktop\\P2-Atividade-Prova - Copia\\P2-Atividade-Prova.csproj",
+      "projectPath": "C:\\Users\\Thima\\Desktop\\P2-Atividade-Prova\\P2-Atividade-Prova.csproj",
       "packagesPath": "C:\\Users\\Thima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thima\\Desktop\\P2-Atividade-Prova - Copia\\obj\\",
+      "outputPath": "C:\\Users\\Thima\\Desktop\\P2-Atividade-Prova\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
