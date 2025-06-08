@@ -12,13 +12,15 @@ namespace LojaVirtual
         public DateTime Data { get; set; }
         public decimal ValorTotal { get; private set; }
 
-        public Pedido()
+        public Pedido(int id, Cliente cliente)
         {
+            Id = id;
+            Cliente = cliente;
             Itens = new List<ItemPedido>();
             Data = DateTime.Now;
         }
 
-        public void AdicionarItem(IProduto produto, int quantidade)
+        public void AdicionarItem(Produto produto, int quantidade)
         {
             if (quantidade <= 0)
                 throw new ArgumentException("A quantidade deve ser maior que zero.");
@@ -30,7 +32,7 @@ namespace LojaVirtual
             }
             else
             {
-                Itens.Add(new ItemPedido { Produto = produto, Quantidade = quantidade });
+                Itens.Add(new ItemPedido(produto, quantidade));
             }
 
             CalcularValorTotal();
@@ -51,4 +53,4 @@ namespace LojaVirtual
             ValorTotal = Itens.Sum(item => item.Subtotal);
         }
     }
-} 
+}

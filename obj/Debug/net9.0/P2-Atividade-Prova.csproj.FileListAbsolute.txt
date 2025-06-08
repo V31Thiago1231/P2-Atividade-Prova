@@ -13,3 +13,18 @@ C:\Users\Thima\Desktop\P2-Atividade-Prova\obj\Debug\net9.0\refint\P2-Atividade-P
 C:\Users\Thima\Desktop\P2-Atividade-Prova\obj\Debug\net9.0\P2-Atividade-Prova.pdb
 C:\Users\Thima\Desktop\P2-Atividade-Prova\obj\Debug\net9.0\P2-Atividade-Prova.genruntimeconfig.cache
 C:\Users\Thima\Desktop\P2-Atividade-Prova\obj\Debug\net9.0\ref\P2-Atividade-Prova.dll
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.AssemblyInfoInputs.cache
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.AssemblyInfo.cs
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.csproj.CoreCompileInputs.cache
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.sourcelink.json
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.dll
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\refint\P2-Atividade-Prova.dll
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.pdb
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\bin\Debug\net9.0\P2-Atividade-Prova.exe
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\bin\Debug\net9.0\P2-Atividade-Prova.deps.json
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\bin\Debug\net9.0\P2-Atividade-Prova.runtimeconfig.json
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\bin\Debug\net9.0\P2-Atividade-Prova.dll
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\bin\Debug\net9.0\P2-Atividade-Prova.pdb
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\P2-Atividade-Prova.genruntimeconfig.cache
+C:\Users\Thima\Desktop\P2-Atividade-Prova - Copia\obj\Debug\net9.0\ref\P2-Atividade-Prova.dll

@@ -16,11 +16,10 @@ namespace LojaVirtual
 
             _ultimoId++;
             return new Pedido
-            {
-                Id = _ultimoId,
-                Cliente = cliente,
-                Data = DateTime.Now
-            };
+            (
+                _ultimoId,
+                (Cliente)cliente
+            );
         }
     }
 } 
